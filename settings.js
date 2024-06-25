@@ -11,7 +11,7 @@ const FOOTERNAME = '𝕮𝖍𝖚𝖙𝖎 𝕯𝖍𝖔𝖓𝖎 𝕸𝕯 ʙʏ ᴅ�
 global.owner = process.env.OWNER_NUMBER  || '94764570094' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'youre session id' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=bZUUiBKK#CCsfz9uKRcluizZZU8aA2Xe30B_H2cpS0GkYFCX-wOE' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "94727196307,94767630094" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '3000': process.env.MAX_SIZE,/*add this in megabytes*/    
